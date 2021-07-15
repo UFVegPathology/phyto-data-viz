@@ -10,7 +10,7 @@ permalink:        pretty
 
 # Setup
 title:            Data Visualization for Plant Pathologists
-description:      'Teaching the tools to get computers to do cool science'
+description:      'Teaching plant pathologists the data visualization tools to show their awesome work'
 url:              https://ufvegpathology.github.io/phyto-data-viz
 baseurl:          /phyto-data-viz
 email:            pcvgt@ufl.edu
