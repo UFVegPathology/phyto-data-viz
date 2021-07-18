@@ -1,6 +1,4 @@
-# Data Carpentry for Biologists - Semester Course
-
-[![DOI](https://zenodo.org/badge/31911336.svg)](https://zenodo.org/badge/latestdoi/31911336)
+# Data Visualization for Plant Pathologists
 
 This is a [forkable](https://help.github.com/articles/fork-a-repo/) set of teaching materials for teaching biologists how to work
 with data through programming, database management and computing more generally.
