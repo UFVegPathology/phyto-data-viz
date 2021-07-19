@@ -8,7 +8,7 @@ professor: Drs. Nicholas S. Dufault & James C. Fulton
 office: Zoom
 email: nsdufault@ufl.edu & pcvgt@ufl.edu
 phone: 
-schedule: ['Tuesdays, 3-3:50 pm ET', 'Fridays, 11:45-1:40 pm ET']
+schedule: ['Thursday 4:05-5:00 pm ET']
 location: Zoom
 office_hours: "Wednesday & Thursday 2-3 pm ET"
 office_hours_location: Zoom
