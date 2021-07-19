@@ -1,19 +1,17 @@
 ---
 layout: page
 title: Syllabus
-catalog: WIS 6934
-credits: 3
-semester: Fall 2020
-professor: Dr. Ethan White (he/him)
+catalog: PLP 6921
+credits: 1
+semester: Fall 2021
+professor: Drs. Nicholas S. Dufault & James C. Fulton
 office: Zoom
-email: ethanwhite@ufl.edu
+email: nsdufault@ufl.edu & pcvgt@ufl.edu
 phone: 
 schedule: ['Tuesdays, 3-3:50 pm ET', 'Fridays, 11:45-1:40 pm ET']
 location: Zoom
 office_hours: "Wednesday & Thursday 2-3 pm ET"
 office_hours_location: Zoom
-TA: Andrew Marx
-TA_email: andrewjmarx@ufl.edu
 ---
 
 ## Course
@@ -56,14 +54,6 @@ Or by appointment. *Note: my schedule gets very busy during the semester so
 please try to schedule appointments as far in advance as possible. In general it
 will be very difficult to set up appointments less than 24 hours in advance.*
 
-
-### Teaching Assistant
-
-{{ page.TA }}
-
-Email: [{{ page.TA_email }}](mailto:{{ page.TA_email }})
-
-
 ### Website
 
 The syllabus and other relevant class information and resources will be posted
@@ -83,17 +73,20 @@ There is no required text book for this class.
 
 All needed material is openly available on the course website. If you are
 interested in additional reading on the topics we are covering I highly
-recommend [R for Data Science](https://r4ds.had.co.nz/), which is freely
-available on the web.
+recommend:
+
+* Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures by Claus O. Wilke (978-1492031086) (https://clauswilke.com/dataviz/) 
+* R for Data Science: Import, Tidy, Transform, Visualize, and Model Data by Hadley Wickham and Garrett Grolemund (978-1491910399) (https://r4ds.had.co.nz/index.html) 
+* Data Visualisation with R – 111 Examples by Thomas Rahlf (978-3030284435) (http://www.datavisualisation-r.com/) 
+* Introduction to Information Visualization: Transforming Data into Meaningful Information by Gerald Benoit (978-1538118351) 
+* Data Visualization (A Practical Introduction) by Kieran Healy (978-0691181622) (https://socviz.co/index.html) 
+* ggplot2: Elegant Graphics for Data Analysis (Use R!) by Hadley Wickham (978-0387981406) (https://ggplot2-book.org/) 
+* How Charts Lie: Getting Smarter about Visual Information Hardcover by Alberto Cairo (978-1324001560) 
 
 
 ### Course Description
 
-An introduction to data management, manipulation, and analysis, with an emphasis
-on biological problems. Class consists of short introductions to new concepts
-followed by hands on computing exercises using R and SQLite, but the concepts
-apply to programming languages and databases more generally. No background in
-computing is required.
+Colloquium is a required course – all graduate students in the department of plant pathology are required to take a minimum of four semesters per degree. Colloquium class topics change each semester per the direction of the instructors. This semester, the topic is data visualization. We will discuss what we mean by data visualization, what our goals as scientists are and should be, what tools are available to present/visualize your data, and how to critique/evaluate presented data.  
 
 
 ### Prerequisite Knowledge and Skills
@@ -103,35 +96,19 @@ Knowledge of basic biology to provide context for exercises.
 
 ### Purpose of Course
 
-In this course you will learn all of the fundamental aspects of computer
-programming that are necessary for conducting biological research. By the end of
-the course you will be able to use these tools to import data into R, perform
-analysis on that data, and export the results to graphs, text files, and
-databases. By learning how to get the computer to do your work for you, you will
-be able to do more science faster.
+As scientists and data consumers we are exposed to data visualization every single day. Whether the data is presented as a chart describing everyone’s favorite ice cream, a figure showing the change in the stock market over time, or an illustration in a popular science magazine demonstrating the more recent advance in our understanding of black holes and astrophysics, everyone single of us must interpret, develop, and communicate thoughts and data in clear, understandable, and aesthetically-pleasing ways. But how many of us stop to consider the underlying principles of how we present our data? Whether our intended messages are being conveyed accurately? Or whether we’re being misled by seemingly plausible sounding explanations of data depictions in erroneous ways? Join us on this semester’s adventure to discuss these topics and others including: research reproducibility, data storage, and data carpentry. 
 
 
 ### Course Objectives and Goals
 
-Students completing this course will be able to:
+After completing this colloquium students will be empowered to:
 
-* Create well structured data
-* Extract information from data
-* Write computer programs in R
-* Automate data analysis
-* Apply these tools to address biological questions
-* Apply general data management and analysis concepts to other programming
-  languages and database management systems
-
-
-### How this course relates to the Student Learning Outcomes in Wildlife Ecology and Conservation
-
-This course contributes to the 'Quantitative Skills' and 'Conducting and
-Analyzing Independent/Original Research' Student Learning Outcomes specified in
-the
-[Ph.D. and MS in Wildlife Ecology and Conservation Academic Assessment Plans](http://assessment.aa.ufl.edu/Data/Sites/22/media/2013-14gaap/cals/2013-14-cals-wildlife-ecol-and-consvn-phd-aap.pdf),
-by providing students the skills and knowledge they need to manage and analyze
-the data used in research.
+* Understand what data visualization and how its implemented to convey an author’s intended message 
+* Know basic rules/guidelines to follow accurately convey data with out misleading or distorting data  
+* Be familiar with different tools and applications that can help you design attractive and compelling data visualizations 
+* Have a sound grasp of data management strategies and increased comfort with data storage and accessibility  
+* Be familiar with R data carpentry tools DPLYER and the TIDYverse suite of applications for data manipulation 
+* Improve your ability to design compelling visual presentations that delivery your message while remaining accessible to scientists and the public  
 
 
 ### Teaching Philosophy
