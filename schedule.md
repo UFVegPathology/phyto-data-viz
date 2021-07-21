@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Assignment Schedule
-assignments: ['What is data visualization?', 'Introduction to R and RStudio',
-'Data in Tables', 'Grouping & Joining Data', 'Data Visualization',
+assignments: ['What is data visualization?', 'Guest speaker 1', 'Data Entry and Storage',
+'Introduction to R and RStudio', 'Data in Tables', 'Grouping & Joining Data', 'Data Visualization',
 'Review + Reproducibility', 'Spatial Data 1', 'Spatial Data 2', 
 'Functions', 'Making Choices', 'Repeating Things 1', 'Repeating Things 2',
 'Cleaning Messy Data', 'Working with Databases', 'Knitr', 'template']
