@@ -5,7 +5,6 @@ assignments: ['What is data visualization?', 'Guest speaker 1', 'Data Entry and 
 'Data in Tables', 'Grouping & Joining Data', 'Cleaning Messy Data I', 'Cleaning Messy Data II' 
 'Working with Databases', 'Guest speaker 2', 'Data Visualization I', 'Data Visualization II, 'Project presentations I',
 'Project presentations II', 'Survey of other applications/tools available for data visualization']
-
 ---
 
 [Assignment submission & checklist]({{ site.baseurl }}/materials/turn-in-checklist)
