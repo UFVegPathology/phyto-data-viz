@@ -5,13 +5,13 @@ catalog: PLP 6921
 credits: 1
 semester: Fall 2021
 professor: Drs. Nicholas S. Dufault & James C. Fulton
-office: Zoom
+office: Zoom, Phone or In-pearson if allowed
 email: nsdufault@ufl.edu & pcvgt@ufl.edu
-phone: 
+phone: 352-273-4623
 schedule: ['Thursday 4:05-5:00 pm ET']
 location: Zoom
 office_hours: "Wednesday & Thursday 2-3 pm ET"
-office_hours_location: Zoom
+office_hours_location: Zoom through Canvas
 ---
 
 ## Course
