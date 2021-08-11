@@ -86,7 +86,7 @@ recommend:
 
 ### Course Description
 
-Colloquium is a required course – all graduate students in the department of plant pathology are required to take a minimum of four semesters per degree. Colloquium class topics change each semester per the direction of the instructors. This semester, the topic is data visualization. We will discuss what we mean by data visualization, what our goals as scientists are and should be, what tools are available to present/visualize your data, and how to critique/evaluate presented data.  
+Data visulization makes it easier for researchers to communicate ideas and findings to thier peers and the public. Producing your own effective plots from data will allow you to understand plots made by others and identify what are effecitve and ineffective methods for data visualization. In this course, we will discuss what we mean by data visualization, what our goals as scientists are and should be, what tools are available to present/visualize your data using the software "R", and how to critique/evaluate presented data. This colloquium course is one is series of required courses provided to graduate students in the department of plant pathology, however, many plant science students will benefit from the information presented here. Colloquium class topics change each semester per the direction of the instructors.   
 
 
 ### Prerequisite Knowledge and Skills
@@ -117,8 +117,8 @@ This class is taught using a flipped, learner-centered, approach, because
 learning to program and work with data requires actively working on
 computers. Flipped classes work well for all kinds of content, but I think they
 work particularly well for computer oriented classes. If you're interested in
-knowing more take a look at this great
-[info-graphic](https://www.knewton.com/flipped-classroom-2/).
+knowing more take a look at this website:
+(https://teach.ufl.edu/resource-library/flipped-classroom/).
 
 
 ### Instructional Methods
