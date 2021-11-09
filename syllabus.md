@@ -8,8 +8,8 @@ professor: Drs. Nicholas S. Dufault & James C. Fulton
 office: Zoom, Phone or In-pearson if allowed
 email: nsdufault@ufl.edu & pcvgt@ufl.edu
 phone: 352-273-4623
-schedule: ['Thursday 4:05-5:00 pm ET']
-location: Zoom
+schedule: ['Thursday 4:05-4:55 pm ET']
+location: Fifield 2564 and Zoom
 office_hours: "Wednesday & Thursday 2-3 pm ET"
 office_hours_location: Zoom through Canvas
 ---
