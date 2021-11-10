@@ -3,11 +3,6 @@ layout: page
 title: Assignments
 ---
 
-### SQL
-
-* [Introduction to Databases](sql-data)
-* [Database Structure and Joins](sql-queries)
-
 ### R
 
 * [Introduction to R and RStudio](r-intro)
@@ -26,6 +21,12 @@ title: Assignments
 
 ### Git
 * [Git with R](r-git)
+
+### SQL
+
+* [Introduction to Databases](sql-data)
+* [Database Structure and Joins](sql-queries)
+
 
 ### Python
 
