@@ -2,8 +2,8 @@
 layout: page
 title: Assignment Schedule
 assignments: ['What is data visualization?', 'Guest speaker 1', 'Data Entry and Storage',
-'Introduction to R and RStudio', 'Data in Tables', 'Grouping & Joining Data', 'Cleaning Messy Data I',
-'Cleaning Messy Data II', 'Working with Databases', 'Guest speaker 2', 'Data Visualization I',
+'Introduction to R and RStudio', 'Data in Tables', 'Grouping & Joining Data', 'Organizing Data for Visualization I',
+'Organizing Data for Visualization II', 'Working with Databases', 'Guest speaker 2', 'Data Visualization I',
 'Data Visualization II', 'Project presentations I', 'Project presentations II',
 'Survey of other applications/tools available for data vizualization']
 ---
