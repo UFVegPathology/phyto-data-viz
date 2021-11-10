@@ -3,9 +3,9 @@ layout: page
 title: Syllabus
 catalog: PLP 6921
 credits: 1
-semester: Fall 2021
+semester: Spring 2021
 professor: Drs. Nicholas S. Dufault & James C. Fulton
-office: Zoom, Phone or In-pearson if allowed
+office: Zoom, Teams, Phone or In-pearson if allowed
 email: nsdufault@ufl.edu & pcvgt@ufl.edu
 phone: 352-273-4623
 schedule: ['Thursday 4:05-4:55 pm ET']
@@ -54,11 +54,13 @@ Or by appointment. *Note: my schedule gets very busy during the semester so
 please try to schedule appointments as far in advance as possible. In general it
 will be very difficult to set up appointments less than 24 hours in advance.*
 
-### Website
+### Websites
+The syllabus, assignments and their due dates can be found on the course website through Canvas.
+http://elearning.ufl.edu.
 
-The syllabus and other relevant class information and resources will be posted
+Online lectures and other relevant class information and resources will be posted
 at [{{ site.url}}]({{ site.baseurl }}/).
-Changes to the schedule will be posted to this site so please try to check it
+Changes to the schedule will be posted at the both sites so please try to check them
 periodically for updates.
 
 
@@ -71,14 +73,16 @@ Email: [{{ page.email }}](mailto:{{ page.email }})
 
 There is no required text book for this class.
 
-All needed material is openly available on the course website. If you are
-interested in additional reading on the topics we are covering I highly
+All needed material is openly available on the course websites. If you are
+interested in additional reading on the topics we are covering then we highly
 recommend:
-
-* Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures by Claus O. Wilke (978-1492031086) (https://clauswilke.com/dataviz/) 
+Learning R:
 * R for Data Science: Import, Tidy, Transform, Visualize, and Model Data by Hadley Wickham and Garrett Grolemund (978-1491910399) (https://r4ds.had.co.nz/index.html) 
+* swirl (https://swirlstats.com/)
+* APS Introduction to R Workshop: (https://everhartlab.github.io/IntroR_2019/index.html)
+Learning Data Visualizatons in R:
+* Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures by Claus O. Wilke (978-1492031086) (https://clauswilke.com/dataviz/) 
 * Data Visualisation with R – 111 Examples by Thomas Rahlf (978-3030284435) (http://www.datavisualisation-r.com/) 
-* Introduction to Information Visualization: Transforming Data into Meaningful Information by Gerald Benoit (978-1538118351) 
 * Data Visualization (A Practical Introduction) by Kieran Healy (978-0691181622) (https://socviz.co/index.html) 
 * ggplot2: Elegant Graphics for Data Analysis (Use R!) by Hadley Wickham (978-0387981406) (https://ggplot2-book.org/) 
 * How Charts Lie: Getting Smarter about Visual Information Hardcover by Alberto Cairo (978-1324001560) 
@@ -115,7 +119,7 @@ After completing this colloquium students will be empowered to:
 
 This class is taught using a flipped, learner-centered, approach, because
 learning to program and work with data requires actively working on
-computers. Flipped classes work well for all kinds of content, but I think they
+computers. Flipped classes work well for all kinds of content, but we think they
 work particularly well for computer oriented classes. If you're interested in
 knowing more take a look at this website:
 https://teach.ufl.edu/resource-library/flipped-classroom/.
@@ -137,12 +141,12 @@ minute demonstrations on the concepts followed by time to work on exercises.
 
 ## Course Policies
 
-### Special Policies for 2020
+### Special Policies for 2021
 
-It has been a long, exhausting, year and it will continue to be so for many of us.
-My goal is to help you learn as much as you can, while recognizing that most people have more limitations and less energy than usual.
+It has been a long, exhausting, pandemic and it will continue to be so for many of us.
+Our goal is to help you learn, while recognizing that most people have more limitations and less energy than usual.
 
-The course is being taught online for the first time due to the pandemic.
+This will be a hybrid course that will have online and in-person/zoom lecture components.
 To provide maximum flexibility the course material can be engaged with in three ways:
 
 1. Fully synchronous: Attend class during the scheduled class periods. Follow each lesson, which combine video lectures and exercises, during the class periods and ask for help as you run into questions. This is the closest approximation to how the course normally runs in-person.
@@ -151,8 +155,8 @@ To provide maximum flexibility the course material can be engaged with in three 
 
 The course always has flexible deadline policies (see below) and will continue to do so to support students learning under these difficult circumstances.
 There is an automatic (no request needed) 48 hour extension on all assignments for those who need it.
-If you need more time just let me know.
-You never need to disclose personal information to me to get an extension. Just let me know how long you need.
+If you need more time just let us know.
+You never need to disclose personal information to us to get an extension. Just let us know how long you need as early as you can.
 
 ### Class Recording
 
@@ -178,14 +182,14 @@ However, it is highly recommended that you submit assignments on time when
 possible because assignments build on one another and it can be hard to catch up
 if you fall behind. Reasonable requests for longer extensions will also be granted.
 Assignments turned in after the 48 hour grace period without an extension will be
-be graded with a 20% penalty.
+be graded with a 10% penalty.
 
 
 ### Assignment policy
 
-Assignments are due Monday night by 11:59 pm Eastern Time.
+Assignments are due Monday night by 11:59 pm Eastern Time as indicated on Canvas.
 This timing allows you to be finished with one week's material before starting the next week's material.
-Assignments should be submitted via either RStudio Cloud (for R assignments) or Canvas (for other assignments).
+Assignments should be submitted via Canvas as word documents or through the Perusall app.
 
 ### Course Technology
 
@@ -236,7 +240,8 @@ Code at http://www.dso.ufl.edu/students.php.
 ### Netiquette and Communication Courtesy
 
 All members of the class are expected to follow rules of common
-courtesy in all email messages, threaded discussions and chats.
+courtesy in all email messages, threaded discussions and chats. 
+(http://teach.ufl.edu/wp-content/uploads/2012/08/NetiquetteGuideforOnlineCourses.pdf)
 
 
 ### Academic Honesty
@@ -281,7 +286,8 @@ http://registrar.ufl.edu/catalog0910/policies/regulationferpa.html
 
 ## Grading Policies
 
-Grading for this course is based on 13 equally weighted assignments.
+Grading for this course is based on 6 equally weighted assignments and one final
+presentation.
 
 Exercises in assignments will be graded as follows:
 
@@ -292,6 +298,8 @@ Exercises in assignments will be graded as follows:
     50%
 * Answer demonstrates a lack of understanding of the core concept: 0%
 
+Perusall assignments will be graded using the AI with the program and
+presentations will be graded according to the Canvas instructions.
 
 ### Grading scale
 
