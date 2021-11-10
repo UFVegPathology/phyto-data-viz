@@ -12,4 +12,5 @@ about how to structure their data in a way that is easy to analyze.
 of some of the Portal Project data, which includes information on the data, species
 identification, weight and sampling plot for some small mammals. 
 
-Convert the data into a more tidy format.
+Convert the data into a more tidy format. While completing this exercise think about how much time
+it took you to complete and how you monitored your edits for mistakes.
