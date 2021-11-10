@@ -76,11 +76,13 @@ There is no required text book for this class.
 All needed material is openly available on the course websites. If you are
 interested in additional reading on the topics we are covering then we highly
 recommend:
-Learning R:
+
+#### Learning R:
 * R for Data Science: Import, Tidy, Transform, Visualize, and Model Data by Hadley Wickham and Garrett Grolemund (978-1491910399) (https://r4ds.had.co.nz/index.html) 
 * swirl (https://swirlstats.com/)
 * APS Introduction to R Workshop: (https://everhartlab.github.io/IntroR_2019/index.html)
-Learning Data Visualizatons in R:
+
+#### Learning Data Visualizatons in R:
 * Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures by Claus O. Wilke (978-1492031086) (https://clauswilke.com/dataviz/) 
 * Data Visualisation with R – 111 Examples by Thomas Rahlf (978-3030284435) (http://www.datavisualisation-r.com/) 
 * Data Visualization (A Practical Introduction) by Kieran Healy (978-0691181622) (https://socviz.co/index.html) 
