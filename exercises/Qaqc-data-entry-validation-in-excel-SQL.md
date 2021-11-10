@@ -17,4 +17,4 @@ Set the following data validation criteria to prevent invalid data from getting 
 
 Check that the validation rules and data formating are working, but do not include any entered data in the final file.
  
-Save this file as `data_entry_form.xlsx`.
+Save this file as `data_entry_form.xlsx` and upload the file to Canvas.
