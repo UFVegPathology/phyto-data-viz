@@ -3,7 +3,7 @@ layout: page
 title: Syllabus
 catalog: PLP 6921
 credits: 1
-semester: Spring 2021
+semester: Spring 2022
 professor: Drs. Nicholas S. Dufault & James C. Fulton
 office: Zoom, Teams, Phone or In-pearson if allowed
 email: nsdufault@ufl.edu & pcvgt@ufl.edu
@@ -11,7 +11,7 @@ phone: 352-273-4623
 schedule: ['Thursday 4:05-4:55 pm ET']
 location: Fifield 2564 and Zoom
 office_hours: "Wednesday & Thursday 2-3 pm ET"
-office_hours_location: Zoom through Canvas
+office_hours_location: Zoom through Canvas or In-person by appointment (if allowed)
 ---
 
 ## Course
@@ -55,7 +55,7 @@ please try to schedule appointments as far in advance as possible. In general it
 will be very difficult to set up appointments less than 24 hours in advance.*
 
 ### Websites
-The syllabus, assignments and their due dates can be found on the course website through Canvas.
+The syllabus, assignments and their due dates, grades and course updates can be found on the course website through Canvas.
 http://elearning.ufl.edu.
 
 Online lectures and other relevant class information and resources will be posted
@@ -143,7 +143,7 @@ minute demonstrations on the concepts followed by time to work on exercises.
 
 ## Course Policies
 
-### Special Policies for 2021
+### Special Policies for 2022
 
 It has been a long, exhausting, pandemic and it will continue to be so for many of us.
 Our goal is to help you learn, while recognizing that most people have more limitations and less energy than usual.
@@ -301,7 +301,8 @@ Exercises in assignments will be graded as follows:
 * Answer demonstrates a lack of understanding of the core concept: 0%
 
 Perusall assignments will be graded using the AI with the program and
-presentations will be graded according to the Canvas instructions.
+presentations will be graded according to the Canvas instructions. Please check the
+Canvas site for all assignment instructions.
 
 ### Grading scale
 
