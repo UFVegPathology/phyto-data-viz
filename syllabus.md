@@ -220,10 +220,10 @@ equipment, providing interpretation services and mediating faculty-student
 disability related issues.Students requesting classroom accommodation must first
 register with the Dean of Students Office. The Dean of Students Office will
 provide documentation to the student who must then provide this documentation to
-the Instructor when requesting accommodation0001 Reid Hall, 352-392-8565,
-www.dso.ufl.edu/drc/
+the Instructor when requesting accommodation. For more information contact 352-392-8565 or 
+through thier website https://disability.ufl.edu/.
 
-My policy: If you are in my class I want to help you learn and will happily work
+My policy: If you are in my class, I want to help you learn and will happily work
 with you to make the learning environment equitable for you and others.
 
 
@@ -236,14 +236,14 @@ Students are expected to provide professional and respectful feedback on the qua
 
 Academic honesty and integrity are fundamental values of the University
 community. Students should be sure that they understand the UF Student Honor
-Code at http://www.dso.ufl.edu/students.php.
+Code at https://sccr.dso.ufl.edu/policies/student-honor-code-student-conduct-code/.
 
 
 ### Netiquette and Communication Courtesy
 
 All members of the class are expected to follow rules of common
 courtesy in all email messages, threaded discussions and chats. 
-(http://teach.ufl.edu/wp-content/uploads/2012/08/NetiquetteGuideforOnlineCourses.pdf)
+(https://teach.ufl.edu/wp-content/uploads/2020/04/NetiquetteGuideforOnlineCourses.docx)
 
 
 ### Academic Honesty
@@ -267,7 +267,7 @@ regarding academic integrity and the Student Honor Code.Violations of the Honor
 Code at the University of Florida will not be tolerated. Violations will be
 reported to the Dean of Students Office for consideration of disciplinary
 action. For more information regarding the Student Honor Code, please see:
-http://www.dso.ufl.edu/sccr/process/student-conduct-honor-code
+https://sccr.dso.ufl.edu/policies/student-honor-code-student-conduct-code/
 
 
 ### Software Use
@@ -283,7 +283,7 @@ disciplinary action will be taken as appropriate.
 
 There are federal laws protecting your privacy with regards to grades earned in
 courses and on individual assignments.  For more information, please see:
-http://registrar.ufl.edu/catalog0910/policies/regulationferpa.html
+https://registrar.ufl.edu/ferpa/
 
 
 ## Grading Policies
@@ -337,29 +337,29 @@ goals, which interfere with their academic performance.
 
 U Matter, We Care: If you or a friend is in distress, please contact umatter@ufl.edu or 352 392-1575 so that a team member can reach out to the student. 
 
-Counseling and Wellness Center: http://www.counseling.ufl.edu/cwc, 392-1575. 
+Counseling and Wellness Center: http://www.counseling.ufl.edu/, 392-1575. 
 
-Sexual Assault Recovery Services (SARS): Student Health Care Center, 392-1161. 
+Sexual Assault Recovery Services (SARS): https://umatter.ufl.edu/helping-students/sexual-violence-response/; Student Health Care Center, 392-1161. 
 
 University Police Department: 392-1111 (or 9-1-1 for emergencies), or http://www.police.ufl.edu/. 
 
 ### Academic Resources
 
-E-learning technical support: 352-392-4357 (select option 2) or e-mail to Learning-support@ufl.edu. https://lss.at.ufl.edu/help.shtml.
+E-learning technical support: 352-392-4357 or e-mail to helpdesk@ufl.edu. https://elearning.ufl.edu/.
 
-Career Connections Center: Reitz Union, 392-1601.  Career assistance and counseling. https://career.ufl.edu/.
+Career Connections Center: Reitz Union, 352-392-1601.  Career assistance and counseling. https://career.ufl.edu/.
 
-Library Support: http://cms.uflib.ufl.edu/ask. Various ways to receive assistance with respect to using the libraries or finding resources.
+Library Support: https://uflib.ufl.edu/. Various ways to receive assistance with respect to using the libraries or finding resources.
 
-Teaching Center: Broward Hall, 392-2010 or 392-6420. General study skills and tutoring. https://teachingcenter.ufl.edu/.
+Teaching Center: Turlington Hall, 352-392-2010. General study skills and tutoring. https://teachingcenter.ufl.edu/.
 
-Writing Studio: 302 Tigert Hall, 846-1138. Help brainstorming, formatting, and writing papers. https://writing.ufl.edu/writing-studio/.
+University Writing Program: Turlington Hall, 352-846-1138. Help brainstorming, formatting, and writing papers. https://writing.ufl.edu/writing-studio/.
 
 ### Student Complaints
 
-Student Complaints Campus: https://www.dso.ufl.edu/documents/UF_Complaints_policy.pdf.
+Student Complaints Campus:https://registrar.ufl.edu/complaint.html.
 
-On-Line Students Complaints: http://www.distance.ufl.edu/student-complaint-process.
+On-Line Students Complaints: https://distance.ufl.edu/state-authorization-status/#student-complaint.
 
 ## Course Schedule
 
