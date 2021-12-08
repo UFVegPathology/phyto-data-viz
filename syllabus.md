@@ -141,12 +141,9 @@ are attempting to solve. For more challenging topics class may start with 20-30
 minute demonstrations on the concepts followed by time to work on exercises.
 
 
-### Course Policies
+### -Course Policies-
 
-### Special Policies for 2022
-
-It has been a long, exhausting, pandemic and it will continue to be so for many of us.
-Our goal is to help you learn, while recognizing that most people have more limitations and less energy than usual.
+Our goal is to help you learn, while recognizing that most people have limitations.
 
 This will be a hybrid course that will have online and in-person/zoom lecture components.
 To provide maximum flexibility the course material can be engaged with in three ways:
@@ -208,7 +205,7 @@ one.
 There are no materials and supplies fees for this course.
 
 
-### UF Policies
+### -UF Policies-
 
 
 ### University Policy on Accommodating Students with Disabilities
@@ -286,7 +283,7 @@ courses and on individual assignments.  For more information, please see:
 https://registrar.ufl.edu/ferpa/ .
 
 
-## Grading Policies
+### -Grading Policies-
 
 Grading for this course is based on 6 equally weighted assignments and one final
 presentation.
@@ -324,7 +321,7 @@ Canvas site for all assignment instructions.
 Grading policies can be found at: [https://catalog.ufl.edu/UGRD/academic-regulations/grades-grading-policies/](https://catalog.ufl.edu/UGRD/academic-regulations/grades-grading-policies/)
 
 
-### Campus Helping Resources
+### -Campus Helping Resources-
 
 Students experiencing mental health and personal issues that interfere with
 their general well-being are encouraged to utilize the university’s counseling
