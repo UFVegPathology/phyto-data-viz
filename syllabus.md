@@ -56,7 +56,7 @@ will be very difficult to set up appointments less than 24 hours in advance.*
 
 ### Websites
 The syllabus, assignments and their due dates, grades and course updates can be found on the course website through Canvas.
-[(https://elearning.ufl.edu)].
+[https://elearning.ufl.edu](https://elearning.ufl.edu).
 
 Online lectures and other relevant class information and resources will be posted
 at [{{ site.url}}]({{ site.baseurl }}/).
@@ -77,8 +77,8 @@ recommend:
 
 #### Learning R:
 * R for Data Science: Import, Tidy, Transform, Visualize, and Model Data by Hadley Wickham and Garrett Grolemund (978-1491910399) (https://r4ds.had.co.nz/index.html) 
-* swirl (https://swirlstats.com/)
-* APS Introduction to R Workshop: (https://everhartlab.github.io/IntroR_2019/index.html)
+* swirl [https://swirlstats.com/](https://swirlstats.com/)
+* APS Introduction to R Workshop: [https://everhartlab.github.io/IntroR_2019/index.html](https://everhartlab.github.io/IntroR_2019/index.html)
 
 #### Learning Data Visualizations in R:
 * Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures by Claus O. Wilke (978-1492031086) (https://clauswilke.com/dataviz/) 
