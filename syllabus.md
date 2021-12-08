@@ -56,7 +56,7 @@ will be very difficult to set up appointments less than 24 hours in advance.*
 
 ### Websites
 The syllabus, assignments and their due dates, grades and course updates can be found on the course website through Canvas.
-http://elearning.ufl.edu.
+(http://elearning.ufl.edu).
 
 Online lectures and other relevant class information and resources will be posted
 at [{{ site.url}}]({{ site.baseurl }}/).
@@ -65,9 +65,7 @@ periodically for updates.
 
 
 ### Course Communications
-
-Email: [{{ page.email }}](mailto:{{ page.email }})
-
+Communication via Canvas is prefered.
 
 ### Required Texts
 
