@@ -278,7 +278,7 @@ disciplinary action will be taken as appropriate.
 
 There are federal laws protecting your privacy with regards to grades earned in
 courses and on individual assignments.  For more information, please see:
-https://registrar.ufl.edu/ferpa/ .
+https://registrar.ufl.edu/ferpa/.
 
 
 ### -Grading Policies-
