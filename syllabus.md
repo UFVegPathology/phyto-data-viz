@@ -361,7 +361,7 @@ Student Complaints (Campus):https://registrar.ufl.edu/complaint.html.
 
 Student Complaints (On-Line): https://distance.ufl.edu/state-authorization-status/#student-complaint.
 
-## Course Schedule
+### Course Schedule
 
 The details course schedule is available on the course website at:
 [{{ site.url }}/schedule]({{ site.baseurl }}/schedule).
