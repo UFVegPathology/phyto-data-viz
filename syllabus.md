@@ -76,15 +76,15 @@ interested in additional reading on the topics we are covering then we highly
 recommend:
 
 #### Learning R:
-* R for Data Science: Import, Tidy, Transform, Visualize, and Model Data by Hadley Wickham and Garrett Grolemund (978-1491910399) (https://r4ds.had.co.nz/index.html) 
+* R for Data Science: Import, Tidy, Transform, Visualize, and Model Data by Hadley Wickham and Garrett Grolemund (978-1491910399) [https://r4ds.had.co.nz/index.html](https://r4ds.had.co.nz/index.html) 
 * swirl [https://swirlstats.com/](https://swirlstats.com/)
 * APS Introduction to R Workshop: [https://everhartlab.github.io/IntroR_2019/index.html](https://everhartlab.github.io/IntroR_2019/index.html)
 
 #### Learning Data Visualizations in R:
-* Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures by Claus O. Wilke (978-1492031086) (https://clauswilke.com/dataviz/) 
-* Data Visualisation with R – 111 Examples by Thomas Rahlf (978-3030284435) (http://www.datavisualisation-r.com/) 
-* Data Visualization (A Practical Introduction) by Kieran Healy (978-0691181622) (https://socviz.co/index.html) 
-* ggplot2: Elegant Graphics for Data Analysis (Use R!) by Hadley Wickham (978-0387981406) (https://ggplot2-book.org/) 
+* Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures by Claus O. Wilke (978-1492031086) [https://clauswilke.com/dataviz/](https://clauswilke.com/dataviz/) 
+* Data Visualisation with R – 111 Examples by Thomas Rahlf (978-3030284435) [http://www.datavisualisation-r.com/](http://www.datavisualisation-r.com/) 
+* Data Visualization (A Practical Introduction) by Kieran Healy (978-0691181622) [https://socviz.co/index.html](https://socviz.co/index.html) 
+* ggplot2: Elegant Graphics for Data Analysis (Use R!) by Hadley Wickham (978-0387981406) [https://ggplot2-book.org/](https://ggplot2-book.org/) 
 * How Charts Lie: Getting Smarter about Visual Information Hardcover by Alberto Cairo (978-1324001560) 
 
 
@@ -122,7 +122,7 @@ learning to program and work with data requires actively working on
 computers. Flipped classes work well for all kinds of content, but we think they
 work particularly well for computer-oriented classes. If you're interested in
 knowing more take a look at this website:
-https://teach.ufl.edu/resource-library/flipped-classroom/.
+[https://teach.ufl.edu/resource-library/flipped-classroom/](https://teach.ufl.edu/resource-library/flipped-classroom/).
 
 
 ### Instructional Methods
@@ -216,7 +216,7 @@ disability related issues.Students requesting classroom accommodation must first
 register with the Dean of Students Office. The Dean of Students Office will
 provide documentation to the student who must then provide this documentation to
 the Instructor when requesting accommodation. For more information contact 352-392-8565 or 
-through their website https://disability.ufl.edu/.
+through their website [https://disability.ufl.edu/](https://disability.ufl.edu/).
 
 My policy: If you are in my class, I want to help you learn and will happily work
 with you to make the learning environment equitable for you and others.
@@ -224,21 +224,21 @@ with you to make the learning environment equitable for you and others.
 
 ### Online Course Evaluation Process
 
-Students are expected to provide professional and respectful feedback on the quality of instruction in this course by completing course evaluations online via GatorEvals. Guidance on how to give feedback in a professional and respectful manner is available at https://gatorevals.aa.ufl.edu/students/. Students will be notified when the evaluation period opens, and can complete evaluations through the email they receive from GatorEvals, in their Canvas course menu under GatorEvals, or via https://ufl.bluera.com/ufl/. Summaries of course evaluation results are available to students at https://gatorevals.aa.ufl.edu/public-results/.
+Students are expected to provide professional and respectful feedback on the quality of instruction in this course by completing course evaluations online via GatorEvals. Guidance on how to give feedback in a professional and respectful manner is available at [https://gatorevals.aa.ufl.edu/students/](https://gatorevals.aa.ufl.edu/students/). Students will be notified when the evaluation period opens, and can complete evaluations through the email they receive from GatorEvals, in their Canvas course menu under GatorEvals, or via [https://ufl.bluera.com/ufl/](https://ufl.bluera.com/ufl/). Summaries of course evaluation results are available to students at [https://gatorevals.aa.ufl.edu/public-results/]( https://gatorevals.aa.ufl.edu/public-results/).
 
 
 ### University Policy on Academic Misconduct
 
 Academic honesty and integrity are fundamental values of the University
 community. Students should be sure that they understand the UF Student Honor
-Code at https://sccr.dso.ufl.edu/policies/student-honor-code-student-conduct-code/.
+Code at [https://sccr.dso.ufl.edu/policies/student-honor-code-student-conduct-code/](https://sccr.dso.ufl.edu/policies/student-honor-code-student-conduct-code/).
 
 
 ### Netiquette and Communication Courtesy
 
 All members of the class are expected to follow rules of common
 courtesy in all email messages, threaded discussions and chats. 
-(https://teach.ufl.edu/wp-content/uploads/2020/04/NetiquetteGuideforOnlineCourses.docx)
+[https://teach.ufl.edu/wp-content/uploads/2020/04/NetiquetteGuideforOnlineCourses.docx](https://teach.ufl.edu/wp-content/uploads/2020/04/NetiquetteGuideforOnlineCourses.docx)
 
 
 ### Academic Honesty
@@ -262,7 +262,7 @@ regarding academic integrity and the Student Honor Code. Violations of the Honor
 Code at the University of Florida will not be tolerated. Violations will be
 reported to the Dean of Students Office for consideration of disciplinary
 action. For more information regarding the Student Honor Code, please see:
-https://sccr.dso.ufl.edu/policies/student-honor-code-student-conduct-code/
+[https://sccr.dso.ufl.edu/policies/student-honor-code-student-conduct-code/](https://sccr.dso.ufl.edu/policies/student-honor-code-student-conduct-code/).
 
 
 ### Software Use
@@ -277,8 +277,7 @@ disciplinary action will be taken as appropriate.
 ### Student Privacy
 
 There are federal laws protecting your privacy with regards to grades earned in
-courses and on individual assignments.  For more information, please see:
-https://registrar.ufl.edu/ferpa/.
+courses and on individual assignments.  For more information, please see:[https://registrar.ufl.edu/ferpa/](https://registrar.ufl.edu/ferpa/).
 
 
 ### -Grading Policies-
@@ -332,29 +331,29 @@ or lacking clear career or academic goals, which interfere with their academic p
 
 U Matter, We Care: If you or a friend is in distress, please contact umatter@ufl.edu or 352 392-1575 so that a team member can reach out to the student. 
 
-Counseling and Wellness Center: http://www.counseling.ufl.edu/, 352-392-1575. 
+Counseling and Wellness Center: [http://www.counseling.ufl.edu/](http://www.counseling.ufl.edu/), 352-392-1575. 
 
-Sexual Assault Recovery Services (SARS): https://umatter.ufl.edu/helping-students/sexual-violence-response/; Student Health Care Center, 352-392-1161. 
+Sexual Assault Recovery Services (SARS): [https://umatter.ufl.edu/helping-students/sexual-violence-response/](https://umatter.ufl.edu/helping-students/sexual-violence-response/); Student Health Care Center, 352-392-1161. 
 
-University Police Department: 392-1111 (or 9-1-1 for emergencies), or http://www.police.ufl.edu/. 
+University Police Department: 392-1111 (or 9-1-1 for emergencies), or [http://www.police.ufl.edu/](http://www.police.ufl.edu/). 
 
 ### Academic Resources
 
-E-learning technical support: 352-392-4357 or e-mail to helpdesk@ufl.edu. https://elearning.ufl.edu/.
+E-learning technical support: 352-392-4357 or e-mail to helpdesk@ufl.edu. [https://elearning.ufl.edu/](https://elearning.ufl.edu/).
 
-Career Connections Center: Reitz Union, 352-392-1601.  Career assistance and counseling. https://career.ufl.edu/.
+Career Connections Center: Reitz Union, 352-392-1601.  Career assistance and counseling. [https://career.ufl.edu/](https://career.ufl.edu/).
 
-Library Support: https://uflib.ufl.edu/. Various ways to receive assistance with respect to using the libraries or finding resources.
+Library Support: [https://uflib.ufl.edu/](https://uflib.ufl.edu/). Various ways to receive assistance with respect to using the libraries or finding resources.
 
-Teaching Center: Turlington Hall, 352-392-2010. General study skills and tutoring. https://teachingcenter.ufl.edu/.
+Teaching Center: Turlington Hall, 352-392-2010. General study skills and tutoring. [https://teachingcenter.ufl.edu/](https://teachingcenter.ufl.edu/).
 
-University Writing Program: Turlington Hall, 352-846-1138. Help brainstorming, formatting, and writing papers. https://writing.ufl.edu/writing-studio/.
+University Writing Program: Turlington Hall, 352-846-1138. Help brainstorming, formatting, and writing papers. [https://writing.ufl.edu/writing-studio/](https://writing.ufl.edu/writing-studio/).
 
 ### Student Complaints
 
-Student Complaints (Campus):https://registrar.ufl.edu/complaint.html.
+Student Complaints (Campus):[https://registrar.ufl.edu/complaint.html](https://registrar.ufl.edu/complaint.html).
 
-Student Complaints (On-Line): https://distance.ufl.edu/state-authorization-status/#student-complaint.
+Student Complaints (On-Line): [https://distance.ufl.edu/state-authorization-status/#student-complaint](https://distance.ufl.edu/state-authorization-status/#student-complaint).
 
 ### Course Schedule
 
