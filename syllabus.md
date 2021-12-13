@@ -341,7 +341,7 @@ University Police Department: 392-1111 (or 9-1-1 for emergencies), or [http://ww
 
 E-learning technical support: 352-392-4357 or e-mail to helpdesk@ufl.edu. [https://elearning.ufl.edu/](https://elearning.ufl.edu/).
 
-Career Connections Center: Reitz Union, 352-392-1601.  Career assistance and counseling. [https://career.ufl.edu/](https://career.ufl.edu/).
+Career Connections Center: Reitz Union, 352-392-1601.  Career assistance and counseling.  [https://career.ufl.edu/](https://career.ufl.edu/).
 
 Library Support: [https://uflib.ufl.edu/](https://uflib.ufl.edu/). Various ways to receive assistance with respect to using the libraries or finding resources.
 
