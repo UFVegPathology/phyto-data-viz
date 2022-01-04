@@ -34,7 +34,7 @@ Phone: {{ page.phone }}
 
 ### Location
 
-{{location}}
+{{page.location}}
 
 
 ### Times
